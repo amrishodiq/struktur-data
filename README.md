@@ -8,3 +8,4 @@
 
 ## Algoritma
 1. [DFS](dfs.md)
+2. [MergeSort](mergesort.md)
